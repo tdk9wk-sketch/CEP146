@@ -90,60 +90,51 @@ Information gathering and assessment
 | 3. b) If it is concluded that an academic integrity offence has occurred, inform the student and commence the formal process. | As soon as possible, within five Seneca business days. | Faculty <br> Note: If the violation is related to the submission of an assessment, all relevant material should be kept by the student’s program area for as long as necessary to resolve the matter.
 
 ## Formal reporting of academic integrity violation
-| Action | Duration, unless extenuating circumstances arise | Responsibility
-1. Complete an Academic Integrity Report (PDF).
+| Action | Duration, unless extenuating circumstances arise | Responsibility |
+|--------|--------------------------------------------------|----------------|
+| 1. Complete an Academic Integrity Report (PDF). | Within five Seneca business days of the alleged violation | Faculty |
+| 2. Deliver a copy of the completed Academic Integrity Report and a blank Student Response to the Academic Integrity Report (PDF) to the student and specified school liaison electronically. | Within five Seneca business days of the alleged violation | Faculty |
+| 3. At the student’s discretion, submit a completed Student Response to the Academic Integrity Report to the chair and/or specified school liaison. | Within five Seneca business days from receipt of the Academic Integrity Report | Student |
+| 4. Convene a meeting of the Academic Integrity Committee at which the student and/or faculty member may request to join in person or virtually | With 10 Seneca business days from the student’s receipt of the Academic Integrity Report	Academic Integrity | Committee chair |
+| 5. Provide the Academic Integrity Committee’s decision in writing to the student, with copies sent to the respective faculty, coordinator, chair and/or specified school liaison. | Within five Seneca business days	Academic Integrity | Committee chair |
+| 6. a) If it is concluded that no academic integrity violation has occurred, a letter stating the decision will be prepared and delivered to the student, with a copy delivered to the faculty, chair and/or specified school liaison, electronically or in person. The Academic Integrity Report will be destroyed. | Within five Seneca business days | Committee chair |
+| 7. The student may appeal the decision of the Academic Integrity Committee based on Seneca’s Academic Appeal Policy | Within five Seneca business days of receipt of the Academic Integrity Committee’s decision | Student |
 
-Within five Seneca business days of the alleged violation	Faculty
-2. Deliver a copy of the completed Academic Integrity Report and a blank Student Response to the Academic Integrity Report (PDF) to the student and specified school liaison electronically.
-
-Within five Seneca business days of the alleged violation	Faculty
-3. At the student’s discretion, submit a completed Student Response to the Academic Integrity Report to the chair and/or specified school liaison.
-
-Within five Seneca business days from receipt of the Academic Integrity Report	Student
-4. Convene a meeting of the Academic Integrity Committee at which the student and/or faculty member may request to join in person or virtually
-
-With 10 Seneca business days from the student’s receipt of the Academic Integrity Report	Academic Integrity Committee chair
-5. Provide the Academic Integrity Committee’s decision in writing to the student, with copies sent to the respective faculty, coordinator, chair and/or specified school liaison.
-
-Within five Seneca business days	Academic Integrity Committee chair
-6. a) If it is concluded that no academic integrity violation has occurred, a letter stating the decision will be prepared and delivered to the student, with a copy delivered to the faculty, chair and/or specified school liaison, electronically or in person. The Academic Integrity Report will be destroyed.	Within five Seneca business days	Academic Integrity Committee chair
-6. b) If it is concluded that an academic integrity violation has occurred, a letter stating the decision, as well as available supports, will be delivered to the student with a copy to the faculty, chair and/or specified school liaison. Sanctions will then be imposed, as outlined in the Academic Integrity Offences – Sanctions document.	Within five Seneca business days of receipt of the Academic Integrity Committee’s decision	Academic Integrity Committee chair/ student
-7. The student may appeal the decision of the Academic Integrity Committee based on Seneca’s Academic Appeal Policy	Within five Seneca business days of receipt of the Academic Integrity Committee’s decision	Student 
 # Appendix B: Academic integrity violations – guidelines for sanctions
-Overview
+## Overview
 Seneca Polytechnic’s Academic Integrity Program has established sanctions that are imposed according to the nature and extent of the academic integrity offence.
 
 These guidelines for sanctions are not intended to restrict the authority or flexibility of the Academic Integrity Committee in imposing sanctions. The sanctions imposed should reasonably reflect the circumstances, including the severity of the violation, the student’s stage of learning and any other relevant factors (see Factors for Consideration section below).
 
 For the benefit of students, the Academic Integrity Committee shall explain in its written decision the significant reasons the sanctions imposed where deemed warranted. 
 
-Types of sanctions
+## Types of sanctions
 Sanctions may include one or more of the following, as determined to be appropriate based on the severity of the offence:
 
-a verbal or written warning, with opportunities to learn from the experience
-required completion of an academic integrity assignment(s) or course(s)
-a make-up assignment or rewriting of an assignment, examination or work
-a lower grade on an assessment (e.g., assignment, examination or course work)  
-a lower grade in the course
-failure in the course
-suspension from Seneca for a minimum of three (3) consecutive terms to a maximum of nine consecutive terms, based on the discretion of the Academic Integrity Committee and approval from the respective dean
-permanent expulsion from Seneca when a student returns to the institution after being suspended under the provisions outlined above and commits a subsequent academic integrity offence
-other penalties as may be appropriate in the circumstances
-Factors for consideration
+- a verbal or written warning, with opportunities to learn from the experience
+- required completion of an academic integrity assignment(s) or course(s)
+- a make-up assignment or rewriting of an assignment, examination or work
+- a lower grade on an assessment (e.g., assignment, examination or course work)  
+- a lower grade in the course
+- failure in the course
+- suspension from Seneca for a minimum of three (3) consecutive terms to a maximum of nine consecutive terms, based on the discretion of the Academic Integrity Committee and approval from the respective dean
+- permanent expulsion from Seneca when a student returns to the institution after being suspended under the provisions outlined above and commits a subsequent academic integrity offence
+- other penalties as may be appropriate in the circumstances
+## Factors for consideration
 With each academic integrity violation, the Academic Integrity Committee shall exercise discretion considering the relevant factors. The Academic Integrity Committee may impose a less severe penalty. Conversely, if the matter escalates, the Student Conduct Office can be engaged as required.
 
 Factors to be considered in imposing sanctions or reviewing sanction recommendations include:
 
-extent of the violation – the actions that constitute specific academic integrity violations vary in severity – some academic integrity offences include minor infractions, while others represent the most extreme violation
-the student’s level of academic experience
-value of the assessment
-extenuating circumstances that may help explain the action taken by the student with due weight being attached to those circumstances
-whether the student admits guilt and accepts responsibility for their action(s)
-prior incidents
-Recording of sanctions
+- extent of the violation – the actions that constitute specific academic integrity violations vary in severity – some academic integrity offences include minor infractions, while others represent the most extreme violation
+- the student’s level of academic experience
+- value of the assessment
+- extenuating circumstances that may help explain the action taken by the student with due weight being attached to those circumstances
+- whether the student admits guilt and accepts responsibility for their action(s)
+- prior incidents
+## Recording of sanctions
 Any academic sanction(s) imposed will be recorded on the student’s account and/or record.  Indicators attached to a student’s account can include:
 
-Academic Integrity Warning (AIW)
-Academic Integrity Offence (AIO)
-Academic Integrity Suspension (AIS)
-Note: If the offence is a second (or subsequent) one for the student and/or is in combination with another offence, then a more severe penalty should be considered.
+- Academic Integrity Warning (AIW)
+- Academic Integrity Offence (AIO)
+- Academic Integrity Suspension (AIS)
+<br> **Note:** If the offence is a second (or subsequent) one for the student and/or is in combination with another offence, then a more severe penalty should be considered.
